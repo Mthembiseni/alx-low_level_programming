@@ -1,6 +1,6 @@
-#Include <stdio.h>
+#include<stdio.h>
 /**
- * main - a that prints a line with puts function
+ * main - a script that prints a line with puts function
  * Return: 0 (success)
  */
 
